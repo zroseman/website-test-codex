@@ -1,0 +1,8 @@
+{
+  "name": "draftboard-landing",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "preview": "python -m http.server 4173"
+  }
+}
