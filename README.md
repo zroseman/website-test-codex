@@ -1,6 +1,6 @@
 # Draftboard landing page (editable code)
 
-This repository contains a fully editable static recreation of the Draftboard marketing site. It is built with plain HTML, CSS, and a small amount of JavaScript—no build steps required.
+This repository contains a fully editable static recreation of the Draftboard.com marketing site. Draftboard is a B2B sales platform that leverages your network to find warm introductions to prospects. The site is built with plain HTML, CSS, and a small amount of JavaScript—no build steps required.
 
 ## Structure
 - `index.html` — page markup and content sections.
